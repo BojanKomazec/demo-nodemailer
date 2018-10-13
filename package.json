@@ -1,0 +1,23 @@
+{
+  "name": "demo-nodemailer",
+  "version": "1.0.0",
+  "description": "Node.js application which tests Nodemailer package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BojanKomazec/demo-nodemailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BojanKomazec/demo-nodemailer/issues"
+  },
+  "homepage": "https://github.com/BojanKomazec/demo-nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.8"
+  }
+}
